@@ -8,13 +8,11 @@ The **Defender** arcade game is an exciting project that utilizes an object-orie
 1. **SFML (Simple and Fast Multimedia Library)**:
    - Version: 2.6.0
    - Purpose: Used for object display, graphics rendering, and handling user input.
-   - Website: SFML Official Website
 
 2. **Doctest**:
    - Version: 2.4.11
    - Purpose: Provides an automated unit testing framework for ensuring code correctness.
-   - Website: Doctest GitHub Repository
-
+   
 ## Features
 
 - Object-oriented design: The game leverages OOP principles to create modular and maintainable code.
